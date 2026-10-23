@@ -1,0 +1,13 @@
+{
+  "display_name": "绒布球生图",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "js": "dist/boot.js",
+  "css": "dist/boot.css",
+  "author": "rongbuqiu",
+  "version": "0.1.0-beta.1",
+  "homePage": "",
+  "auto_update": false,
+  "minimum_client_version": "1.19.0"
+}
