@@ -1,0 +1,1 @@
+var e=e=>String(e||"").trim().replace(/^,+|,+$/g,"").trim(),i=i=>i.map(e).filter(Boolean).join(", ").trim();function t(t,{global:r={},preset:n=null,negative:a="",isolate:l=!1,skipPresets:o=!1}={}){if(l)return{positive:e(t),negative:e(a)};const s=o?null:n;return{positive:i([r.prefix,s?.prefix,t,s?.suffix,r.suffix]),negative:i([r.negative,s?.negative,a])}}export{t as assemble};
