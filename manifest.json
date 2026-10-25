@@ -6,7 +6,7 @@
   "js": "dist/boot.js",
   "css": "dist/boot.css",
   "author": "rongbuqiu",
-  "version": "0.1.0-beta.8",
+  "version": "0.1.0-beta.9",
   "homePage": "",
   "auto_update": false,
   "minimum_client_version": "1.18.0"
