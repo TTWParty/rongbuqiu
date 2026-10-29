@@ -1,1 +1,0 @@
-var a="0.1.0-beta.23";export{a as VERSION};
