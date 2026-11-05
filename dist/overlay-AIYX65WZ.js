@@ -1,1 +1,0 @@
-import{compositeMangaBlob as o,isVerticalBubbleText as r,syncMangaOverlay as m,wrapVerticalColumns as p}from"./chunk-2UODWIR6.js";import"./chunk-VMSV6NKY.js";import"./chunk-MLKGABMK.js";export{o as compositeMangaBlob,r as isVerticalBubbleText,m as syncMangaOverlay,p as wrapVerticalColumns};
