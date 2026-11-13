@@ -1,1 +1,0 @@
-import{collectMangaDeck as o,exportMangaLongStrip as r,openMangaReader as m}from"./chunk-2DCKLM7Y.js";import"./chunk-C3V2ZF4R.js";import"./chunk-F57JOUO2.js";import"./chunk-DSTRCOV2.js";import"./chunk-CTRDF2UZ.js";import"./chunk-VMSV6NKY.js";import"./chunk-MLKGABMK.js";export{o as collectMangaDeck,r as exportMangaLongStrip,m as openMangaReader};
