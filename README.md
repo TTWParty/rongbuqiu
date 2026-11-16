@@ -1,6 +1,6 @@
 # 绒布球生图 (rongbuqiu) v1.0.0
 
-面向 **SillyTavern（酒馆）** 的 NovelAI 插画、AI 分镜与正文漫画扩展（最低要求 SillyTavern `1.18.0`）。
+面向 **SillyTavern（酒馆）** 的 NovelAI 插画、AI 分镜与正文漫画扩展，兼容主流 SillyTavern 版本（手机端与电脑端均已适配）。
 
 ## 主要特性
 

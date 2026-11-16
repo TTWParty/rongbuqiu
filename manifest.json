@@ -8,6 +8,5 @@
   "author": "rongbuqiu",
   "version": "1.0.0",
   "homePage": "https://github.com/TTWParty/rongbuqiu",
-  "auto_update": true,
-  "minimum_client_version": "1.18.0"
+  "auto_update": true
 }
