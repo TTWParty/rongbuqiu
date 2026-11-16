@@ -6,7 +6,7 @@
   "js": "dist/boot.js",
   "css": "dist/boot.css",
   "author": "rongbuqiu",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homePage": "https://github.com/TTWParty/rongbuqiu",
   "auto_update": true
 }
