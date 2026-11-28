@@ -1,4 +1,4 @@
-# 绒布球生图 (rongbuqiu) v1.4.3
+# 绒布球生图 (rongbuqiu) v1.4.4
 
 面向 **SillyTavern（酒馆）** 的 NovelAI 插画、AI 分镜与正文漫画扩展，兼容主流 SillyTavern 版本（手机端与电脑端均已适配）。
 
@@ -30,7 +30,7 @@
 
 ### 方式二：手动安装发布包
 
-下载发布包 `rongbuqiu-1.4.3.zip`，解压至 SillyTavern 的 `data/<你的用户名>/extensions/` 目录，确保目录结构为：
+下载发布包 `rongbuqiu-1.4.4.zip`，解压至 SillyTavern 的 `data/<你的用户名>/extensions/` 目录，确保目录结构为：
 `extensions/rongbuqiu/manifest.json`、`extensions/rongbuqiu/dist/boot.js` 等，随后刷新 SillyTavern。
 
 ## 快捷使用
